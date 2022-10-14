@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/sobhankazemi/UrlShortener"
 	"net/http"
+
+	urlshort "github.com/sobhankazemi/UrlShortener"
 )
 
 func main() {
